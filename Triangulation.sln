@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulation", "Triangulation\Triangulation.csproj", "{DDF4AD93-B836-4A2A-8FF4-4C011AAA245F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF4AD93-B836-4A2A-8FF4-4C011AAA245F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF4AD93-B836-4A2A-8FF4-4C011AAA245F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF4AD93-B836-4A2A-8FF4-4C011AAA245F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF4AD93-B836-4A2A-8FF4-4C011AAA245F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62AC9241-21C5-448C-9AC7-CEEEAA790CB0}
+	EndGlobalSection
+EndGlobal
